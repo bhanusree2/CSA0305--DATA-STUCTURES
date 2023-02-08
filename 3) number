@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+int a,i;
+clrscr();
+printf("enter number");
+scanf("%d",&a);
+for(i=0;i<=a,i++);
+{
+printf("%d",i);
+}
