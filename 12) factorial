@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+char str[100];
+int i,n,f=1;
+printf("enter an integer: ");
+scanf("%d",&n);
+if(n>0);
+{
+f=f*n;
+n--i}
+printf("factorial=%d",f);
+}
+}
